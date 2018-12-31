@@ -1,7 +1,7 @@
 # Daily Khaber And News Line Bot
 New Release Bot Daily Khaber<br>
 # Installations
-git clone https://github.com/dbgid/dbgid-daily-khaber.git [enter]<br>
+git clone https://github.com/wak2luang/khaber [enter]<br>
 # Usage
 Silahkan snif/capture pada appsnya, ambil data capture<br>
 sebagai berikut:<br>
